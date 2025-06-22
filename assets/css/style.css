@@ -485,7 +485,7 @@ section {
   margin-right: 0;
 }
 .portfolio .portfolio-wrap {
-  width: 420px;
+  /* width: 420px; */
   height: 315px;
   transition: 0.3s;
   position: relative;
